@@ -1,0 +1,8 @@
+C:\Users\Vacintosh\Documents\projects\practica-examen\practica-examen\bin\Debug\practica-examen.exe.config
+C:\Users\Vacintosh\Documents\projects\practica-examen\practica-examen\bin\Debug\practica-examen.exe
+C:\Users\Vacintosh\Documents\projects\practica-examen\practica-examen\bin\Debug\practica-examen.pdb
+C:\Users\Vacintosh\Documents\projects\practica-examen\practica-examen\obj\Debug\practica-examen.csproj.AssemblyReference.cache
+C:\Users\Vacintosh\Documents\projects\practica-examen\practica-examen\obj\Debug\practica-examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vacintosh\Documents\projects\practica-examen\practica-examen\obj\Debug\practica-examen.csproj.CoreCompileInputs.cache
+C:\Users\Vacintosh\Documents\projects\practica-examen\practica-examen\obj\Debug\practica-examen.exe
+C:\Users\Vacintosh\Documents\projects\practica-examen\practica-examen\obj\Debug\practica-examen.pdb
