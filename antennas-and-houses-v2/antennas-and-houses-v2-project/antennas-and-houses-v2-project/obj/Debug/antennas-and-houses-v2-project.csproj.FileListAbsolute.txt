@@ -1,0 +1,8 @@
+C:\Users\Vacintosh\Documents\projects\Antennas-and-houses\antennas-and-houses-v2\antennas-and-houses-v2-project\antennas-and-houses-v2-project\bin\Debug\antennas-and-houses-v2-project.exe.config
+C:\Users\Vacintosh\Documents\projects\Antennas-and-houses\antennas-and-houses-v2\antennas-and-houses-v2-project\antennas-and-houses-v2-project\bin\Debug\antennas-and-houses-v2-project.exe
+C:\Users\Vacintosh\Documents\projects\Antennas-and-houses\antennas-and-houses-v2\antennas-and-houses-v2-project\antennas-and-houses-v2-project\bin\Debug\antennas-and-houses-v2-project.pdb
+C:\Users\Vacintosh\Documents\projects\Antennas-and-houses\antennas-and-houses-v2\antennas-and-houses-v2-project\antennas-and-houses-v2-project\obj\Debug\antennas-and-houses-v2-project.csproj.AssemblyReference.cache
+C:\Users\Vacintosh\Documents\projects\Antennas-and-houses\antennas-and-houses-v2\antennas-and-houses-v2-project\antennas-and-houses-v2-project\obj\Debug\antennas-and-houses-v2-project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vacintosh\Documents\projects\Antennas-and-houses\antennas-and-houses-v2\antennas-and-houses-v2-project\antennas-and-houses-v2-project\obj\Debug\antennas-and-houses-v2-project.csproj.CoreCompileInputs.cache
+C:\Users\Vacintosh\Documents\projects\Antennas-and-houses\antennas-and-houses-v2\antennas-and-houses-v2-project\antennas-and-houses-v2-project\obj\Debug\antennas-and-houses-v2-project.exe
+C:\Users\Vacintosh\Documents\projects\Antennas-and-houses\antennas-and-houses-v2\antennas-and-houses-v2-project\antennas-and-houses-v2-project\obj\Debug\antennas-and-houses-v2-project.pdb
